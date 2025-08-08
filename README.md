@@ -52,7 +52,7 @@ pip install pillow
 
 ```
 ---
-## 🖥 Download
+## 🖥 Download (.exe)
 
 [⬇️ Download DotArtRenderer.exe](https://github.com/BinaryGhost45/-Dot-Art-Image-Renderer/releases/tag/v1.0.0)
 
