@@ -1,4 +1,4 @@
-# -Dot-Art-Image-Renderer
+# Dot-Art-Image-Renderer
 Turn any image into elegant dot-style ASCII art using Python.
 # 🎨 Dot Art Image Renderer
 
