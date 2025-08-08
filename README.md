@@ -49,3 +49,8 @@ You only need one Python library:
 
 ```bash
 pip install pillow
+
+## 🖥 Download
+
+[⬇️ Download DotArtRenderer.exe](https://github.com/BinaryGhost45/-Dot-Art-Image-Renderer/releases/tag/v1.0.0)
+
